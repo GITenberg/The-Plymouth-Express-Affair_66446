@@ -1,0 +1,30 @@
+_repo: The-Plymouth-Express-Affair_66446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2021-10-02'
+identifiers:
+  gutenberg: '66446'
+language: en
+pgterms:marc904: https://www.pulpmags.org/collections/flb/blu19240100
+pgterms:marc905: 20210816114552christie
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Consolidated Magazines Corporation (The Blue
+  Book Magazine),1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Plymouth Express Affair
+url: http://www.gutenberg.org/ebooks/66446
